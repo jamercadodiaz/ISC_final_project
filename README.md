@@ -1,5 +1,5 @@
-# Final Project - Joel A. Mercado Diaz
-Introduction to Scientific Computing
+## Final Project - Joel A. Mercado Diaz
+### ECEV 32000 - Introduction to Scientific Computing
 
 This repository contain the scripts and files needed to run my final project for the class Introduction to Scientific Computing
 
